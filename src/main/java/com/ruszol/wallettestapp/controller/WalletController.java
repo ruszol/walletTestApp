@@ -5,7 +5,6 @@ import com.ruszol.wallettestapp.dto.WalletDto;
 import com.ruszol.wallettestapp.dto.IncomingDto;
 import com.ruszol.wallettestapp.service.WalletService;
 import jakarta.validation.Valid;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
